@@ -1,0 +1,1 @@
+var docTree = JSON.parse('<%=tree%>')
