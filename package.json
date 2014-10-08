@@ -1,0 +1,14 @@
+{
+  "name": "dogene-docs",
+  "version": "0.0.1",
+  "description": "Generate HTML docs from a dogene JSON tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "helgi.kristjansson@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "optimist": "^0.6.1"
+  }
+}
